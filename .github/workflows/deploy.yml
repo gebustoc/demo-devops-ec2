@@ -35,7 +35,7 @@ jobs:
 
 
             if [ ! -d "demo-devops-ec2" ]; then
-              git clone github.com/cbugueno-duoc/demo-devops-ec2.git
+              git clone github.com/gebustoc/demo-devops-ec2.git
             fi
 
 
