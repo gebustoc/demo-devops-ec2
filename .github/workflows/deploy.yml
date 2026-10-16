@@ -5,7 +5,7 @@ name: Deploy Apache EC2
 on:
   push:
     branches:
-      - main
+      - master
 
 
 
