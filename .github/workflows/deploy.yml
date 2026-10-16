@@ -35,7 +35,7 @@ jobs:
 
 
             if [ ! -d "demo-devops-ec2" ]; then
-              git clone github.com/gebustoc/demo-devops-ec2.git
+              git clone https://github.com/gebustoc/demo-devops-ec2/
             fi
 
 
@@ -45,7 +45,7 @@ jobs:
 
 
             git fetch origin
-            git reset --hard origin/main
+            git reset --hard origin/master
 
 
 
